@@ -1,0 +1,13 @@
+{
+    "name": "leancloud/php-sdk",
+    "require": {
+        "rmccue/requests": "~1.6"
+    },
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "asaka",
+            "email": "lan@leancloud.rocks"
+        }
+    ]
+}
